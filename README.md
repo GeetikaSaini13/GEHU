@@ -25,7 +25,7 @@ Demolition is an offline AI learning assistant that runs on budget Android devic
 [![Version](https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge)](https://drive.google.com/file/d/1hUuOpTtXQRJCUEViQpWICezuiUig6SOJ/view?usp=sharing)
 [![Android](https://img.shields.io/badge/Android-7.0+-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1hUuOpTtXQRJCUEViQpWICezuiUig6SOJ/view?usp=sharing)
 
-**[📥 Download APK from Google Drive](https://drive.google.com/file/d/1hUuOpTtXQRJCUEViQpWICezuiUig6SOJ/view?usp=sharing)** (~750MB - includes model + data)
+**[📥 Download APK from Google Drive](https://drive.google.com/file/d/1hUuOpTtXQRJCUEViQpWICezuiUig6SOJ/view?usp=sharing)** (~750MB - includes model + data) 
 
 **Requirements:** Android 7.0+ | 2GB+ RAM | 2GB storage | Patience on first launch
 
